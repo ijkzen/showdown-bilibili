@@ -1,0 +1,25 @@
+{
+  "name": "showdown-bilibili",
+  "version": "0.0.1",
+  "description": "adjust height and width for bilibili player at html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ijkzen/showdown-bilibili.git"
+  },
+  "keywords": [
+    "showdown",
+    "bilibli",
+    "player",
+    "markdown"
+  ],
+  "author": "ijkzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ijkzen/showdown-bilibili/issues"
+  },
+  "homepage": "https://github.com/ijkzen/showdown-bilibili#readme"
+}
